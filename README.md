@@ -1,41 +1,47 @@
-# 💫 About Me:
-👋 Hi, I'm Ayush | Senior Full Stack Developer<br><br>💫 Architecting Scalable Digital Experiences from India to the World<br><br>I am a **Senior Full-Stack Engineer** with over **6+ years** of experience in building robust, production-ready applications. My expertise lies in the **MERN Stack**, where I focus on creating high-performance, scalable systems that solve real-world business problems.<br><br>🌍 **Global Impact:** Worked with diverse clients across the US, UK, and Europe.<br> ⚡ **Remote Expert:** Mastered Asynchronous Communication and Agile collaboration.<br> 🚀 **Specializations:** SaaS, CRM, ERP, and high-traffic LMS platforms.<br> 🕒 **Availability:** Open for Remote roles in EU/US timezones.
+# Hi, I'm Ayush 👋
+AI-Native Full Stack Engineer building scalable SaaS platforms, intelligent automation systems, and AI-powered products.
+I specialize in combining software engineering with modern AI workflows to deliver products faster, smarter, and with higher quality.
+Currently focused on:
+🚀 AI Engineering🤖 Agentic Workflows⚡ Claude Code Development🏗 Enterprise SaaS Architecture☁ AWS & Cloud Infrastructure🔄 Distributed Systems
 
+## About Me
+With 7+ years of experience in software engineering, I help companies build modern SaaS platforms, cloud-native applications, and AI-powered workflows.
+I work at the intersection of:
+• AI-Assisted Software Development• Full Stack Engineering• Microservices Architecture• Workflow Automation• Developer Productivity
+I use Claude Code daily for architecture planning, implementation, debugging, testing, and system design.
+My focus is not simply writing code.
+My focus is building systems that scale.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_donga_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-donga-696755197/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.donga20@gmail.com) 
+## Tech Stack
+### AI & AutomationClaude CodeOpenAIAnthropic ClaudePrompt EngineeringAgentic WorkflowsDocument Intelligence
+### FrontendReactTypeScriptNext.jsJavaScriptHTML5CSS3
+### BackendNode.jsNestJSExpressGraphQLREST APIs
+### DatabasesPostgreSQLMongoDBMySQLRedis
+### Messaging & Distributed SystemsRabbitMQKafkaWebSocketsRedis Streams
+### Cloud & DevOpsAWSDockerLinuxNGINXPM2CI/CD
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## What I Build
+### AI-Powered Products
+✔ Document Intelligence Systems
+✔ LLM-Powered Workflow Automation
+✔ Invoice Matching Platforms
+✔ Agentic AI Solutions
+✔ Enterprise SaaS Applications
+✔ Microservice Architectures
+✔ Internal AI Tools
+✔ Developer Productivity Systems
 
-# 📊 GitHub Stats
+## Current Focus
+Building production-ready AI systems using:
+• Claude Code• OpenAI APIs• Anthropic APIs• Agentic Workflows• Multi-Agent Systems• AI-First Product Development
+Exploring how AI changes software engineering and product delivery.
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Ayush-Donga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Donga&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-Donga&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Donga&theme=radical&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Donga&theme=react-dark"/>
-</p>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayush-Donga&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=Ayush-Donga&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Why Work With Me
+✓ 7+ years of production experience
+✓ Enterprise SaaS background
+✓ AI-native development approach
+✓ Strong architecture mindset
+✓ Product-focused engineering
+✓ Remote-first collaboration
+✓ Fast execution without sacrificing quality
+✓ Ownership-driven delivery
